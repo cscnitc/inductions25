@@ -1,11 +1,13 @@
 # Cryptography tasks
 
+![Enigma machine](https://upload.wikimedia.org/wikipedia/commons/2/27/Enigma-plugboard.jpg "Enigma machine, changed WW2")
+
 So you decided on crypto? you must like math and logic, great!
-These tasks are designed to test everyone, from the beginner knowning nothing (yet willing to learn) to the seasoned cyptanalyst.
+These tasks are designed to test everyone, from the beginner knowing nothing (yet willing to learn), to the seasoned cryptanalyst.
 
 ## Special offer
 
-If you already know basic crypto, and can take part in [NSUCRYPTO](https://nsucrypto.nsu.ru/), then you are special! 
+If you already know basic crypto, and think you can take part in [NSUCRYPTO](https://nsucrypto.nsu.ru/), then you are special! 
 What's NSUCRYPTO? It's like an olympiad in cryptography.
 
 We will allow you to join the club without submitting any task, on the condition that you solve atleast 1 problem in the individual round of NSUCRYPTO this year, as well as take part in the group round, and pass our interview.
@@ -13,6 +15,7 @@ In any case, we still recommend that you submit atleast the crypto tasks, since 
 Contact rehan at mohammed_b231090pe (at) nitc domain for more details on this.
 
 ## How to get started
+
 If you're absolutely new, we suggest trying out [cryptopals](https://cryptopals.com/sets/1) or [cryptohack](https://cryptohack.org/courses/intro/course_details/). They assume only elementary computer programming as a prereq, and require only 10th grade level math to proceed.
 
 The latter website is also useful for intermediate and harder concepts such as elliptic curve cryptography, and lattice cryptography.

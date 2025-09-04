@@ -1,5 +1,6 @@
 # OTP
 
+![Stalker](https://20705724.fs1.hubspotusercontent-na1.net/hubfs/20705724/Blog_Featured_Image_Stalking.jpg "Stalker")
 Esha continues to stalk Aliya, and follows her to her house (what a weirdo).
 
 She notices that Aliya goes to her parent's room, and unlocks it with a key. She sees [this photo](./task2imgs/1.png) in her parent's room.

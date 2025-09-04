@@ -1,5 +1,7 @@
 # Duffy appears again (Bonus)
 
+![ECC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqv3h1pihttAgAMKvy7jRg-0xEKqEYpJW7g&s "ECC")
+
 Esha notices that Alice sent a message to Bhuvan, through Duffy. Duffy was yet again eating a sandwich with the world's most popular mayonnaise, but this time Duffy wore a shirt that said "I love ECC"?? Can you help Esha find what the message was?
 
 ```python source.py
