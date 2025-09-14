@@ -11,3 +11,4 @@ This year, we shall recruit via two tracks -
 2. [Track 2](./track2) - a 3-month long induction process, where prospective inductees are given tasks, with appropriate deadlines, ending by the beginning of the next semester. This channel is open ONLY to first and second year students. We request all newcomers, and beginners in programming, and cybersec to pick this track. If you wanna join the channel via this round, please fill up [this]() form, and join the linked WhatsApp group.
 
 All the best, and happy hacking!
+Any questions? contact us at nine six zer0 six zer0 seven three four four sixx
