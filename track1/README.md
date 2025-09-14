@@ -37,7 +37,7 @@ While we highly recommend submitting *ALL* the tasks in a particular domain, we 
 
 Make sure to submit your tasks, even if you "feel" they're wrong/incomplete. We value effort and attempts a lot, so don't be disheartened if you couldn't finish the tasks on time. Feel free to ask doubts, and hints in the group chat, but DO NOT share the solutions in the group or your friends, no matter how close they are. Likewise, we also expect you to not ask solutions from your friends.
 
-To submit, fork this repository, add your code under the respective folder, and a file called writeup-x.md, where x corresponds to the the task number. Make sure to add relevant screenshots, and references, as and when necessary.
+To submit, create a write-up document detailing your solution process for all the tasks you solved. Make sure to include relevant screenshots, and cite sources when necessary. At the same time, create a github repo with the code used for solving the task. Make sure the repository is private(will be checked during interview). Upload the document in this [form](https://forms.gle/adYuqhhw3UdKXf1t9), and you're done. We recommend using LaTeX, but any way is fine.
 
 ## Domains
 
