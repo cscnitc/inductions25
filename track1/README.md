@@ -43,7 +43,7 @@ To submit, create a write-up document detailing your solution process for all th
 
 This year, we are inducting for the following domains -
 1. [Cryptography](./crypto)
-2. [Reverse engineering/Pwning](./pwning)
+2. [Reverse engineering](./Reverse%20engineering)
 3. [Web exploitation](./webexp)
 4. [AI/ML attacks](./aiml)
 5. [Forensics](./forensics)
