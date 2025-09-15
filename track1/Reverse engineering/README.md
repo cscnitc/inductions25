@@ -2,6 +2,8 @@
 
 ![Reverse Engineering Banner](./imgs/banner.png)
 
+So you chose reverse engineering? You must enjoy puzzles, curiosity, and a bit of detective work! These challenges are designed for everyone — from the complete beginner who’s just opening their first binary, to the seasoned reverser who loves dissecting complex programs.
+
 - **Q1. Easy — Windows Binary**  
   [Download Task0.exe](./Task0.exe)
   A Windows executable that hides a flag using a simple transformation.
