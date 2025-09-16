@@ -1,4 +1,4 @@
-![Reverse Engineering Banner](/inductions25/track1/reverse-engineering/banner.png)
+![Reverse Engineering Banner](/track1/reverse-engineering/imgs/banner.png)
 
 # Reverse Engineering Challenges
 
