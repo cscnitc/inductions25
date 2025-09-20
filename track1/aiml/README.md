@@ -1,6 +1,6 @@
 # Artificial Intelligence/Machine Learning  Tasks
 
-![Deep learning is just convex optimization](../img/mlmeme.png)
+![Deep learning is just convex optimization](/img/mlmeme.png)
 
 To be fair, calling it AI/ML is confusing - these tasks do not refer to using AI or ML to find holes, but to find holes in AI and ML approaches themselves. This field is relatively new, and called as _adversarial machine learning_
 

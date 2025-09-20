@@ -1,7 +1,7 @@
 # Track 2 Inductions
 
 
-Welcome, this track is specially designed for first and second year students of all branches, even if you have only have little to no experiecne.
+Welcome, this track is specially designed for first and second year students of all branches, even if you have have little to no experience.
 
 All prospective inductees MUST register on [pwn.college](https://pwn.college/). Whats that? Its a website to help beginners get started with "hacking", more specifically pwn-ing.
 
