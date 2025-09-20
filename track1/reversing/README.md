@@ -2,7 +2,8 @@
 
 ![Reverse Engineering Banner](./imgs/banner.png)
 
-So you chose reverse engineering? You must enjoy puzzles, curiosity, and a bit of detective work! These challenges are designed for everyone — from the complete beginner who’s just opening their first binary, to the seasoned reverser who loves dissecting complex programs.
+If you're new, checkout this really comprehensive [book](https://repository.root-me.org/Reverse%20Engineering/EN%20-%20Reverse%20Engineering%20for%20Beginners%20-%20Dennis%20Yurichev.pdf) on reversing. There are also a couple great courses at [OST2](https://p.ost2.fyi/courses) 
+
 
 - **Q1. Easy — Windows Binary**  
   [Download Task0.exe](./Task0.exe)
@@ -22,4 +23,6 @@ So you chose reverse engineering? You must enjoy puzzles, curiosity, and a bit o
 ---
 
 *Bonus for Task2 : You may also attempt basic binary exploitation and include screenshots of your process in the write-up.*
+
+You can also solve this year's first [FLARE On](https://flare-on.com/) challenge, we'll definitely be impressed :)
 
