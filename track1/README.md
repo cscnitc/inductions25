@@ -8,7 +8,7 @@ The process is divided into 2 rounds -
 
 This repository is for submitting the tasks for Round 1.
 
-All prospective inductees will have 10 days to submit the tasks - till 11:59PM, 30 September, 2025.
+All prospective inductees will have 10 days to submit the tasks - till 11:59PM, 4 October, 2025.
 
 The tasks are grouped by domain, and in general, each individual must submit tasks in atleast 2 domains to continue(exceptions are listed as such where they apply). There will be bonus tasks for those who weren't able to do enough tasks, have time, want to challenge themselves, or want to show off their existing cybersec skills.
 
