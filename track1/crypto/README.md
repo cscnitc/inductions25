@@ -1,3 +1,4 @@
+[go back up](./..)
 # Cryptography tasks
 
 ![Enigma machine](https://upload.wikimedia.org/wikipedia/commons/2/27/Enigma-plugboard.jpg "Enigma machine, changed WW2")
