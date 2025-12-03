@@ -4,7 +4,7 @@ Since the dawn of smart phones, manufacturers (OEMs) and power users have been i
 
 This comes with its own set of flaws that can [potentially be bypassed]( https://tryigit.dev/android-keybox-attestation-analysis/), but relies on hacks and tricks that may not always work.
 
-Something I recently noticed was that while I could [meet strong integrity](mobsec/screenshot.jpg) with GApps ([APatch](https://github.com/bmax121/APatch/)+[ReZygisk](https://github.com/PerformanC/ReZygisk)+[PIF](https://github.com/osm0sis/PlayIntegrityFork/)+[TEESimulator](https://github.com/JingMatrix/TEESimulator)), achieving the same with [microg](https://github.com/microg/GmsCore/wiki) was not possible (same list of modules). In fact, I couldn't even meet device integrity. 
+Something I recently noticed was that while I could ![meet strong integrity](./screenshot.jpg) with GApps ([APatch](https://github.com/bmax121/APatch/)+[ReZygisk](https://github.com/PerformanC/ReZygisk)+[PIF](https://github.com/osm0sis/PlayIntegrityFork/)+[TEESimulator](https://github.com/JingMatrix/TEESimulator)), achieving the same with [microg](https://github.com/microg/GmsCore/wiki) was not possible (same list of modules). In fact, I couldn't even meet device integrity. 
 
 Come up with a way to pass atleast device integrity with microg installed, ideally with a new plugin. [without a paid keybox ;) ]
 
