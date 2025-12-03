@@ -9,7 +9,7 @@ For this round, each of you will work on an assignment throughout this month - t
 ## Assignments
 
 1. [Cryptography](./crypto)
-2. [Reverse Engineering](./reversing)
+2. [Reverse Engineering](./Reversing)
 3. [Binary Exploitation](./pwning)
 4. [Malware Forensics](./forensics)
 5. [Web Exploitation](./webexp)
