@@ -25,10 +25,11 @@ Imagine you're a whistleblower, and you just dropped the bomb. You sent the evid
 Model the threat in three different ways - 
 1. [FDE disabled] You get the phone before the factory reset happens, and its unlocked (AFU). Assume root access as well.
 2. [FDE disabled] You get the phone before the factory reset, but its shut down. 
-4. [FDE enabled] You get the phone after factory reset, and the whistleblower bent, he spilled his password.
+3. [FDE enabled] You get the phone after factory reset - and you have a copy of the RAM AFU.
+4. [FDE enabled] You get the phone after factory reset, and the whistleblower bent, he spilled his password
 
 For each of this scenarios, attempt to recover the evidence file from the user's storage. Maybe it's a simple photo. Use a rooted Android, and disable FDE for 1 and 2. For 3, enable it. Bonus points if you use a jailbroken Apple device.
-Yeah its hard. Document all your efforts.
+Yeah its hard. Document all your efforts. Take into consideration how secure boot effects all this
 
 ## Evaluation criteria
 1. Efforts (50%) - What you tried, how, etc. How good your understanding of mobile encryption process is.
