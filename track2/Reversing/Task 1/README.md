@@ -5,8 +5,9 @@
 Welcome to **Question 1** of the induction task.  
 This section evaluates your **reverse engineering depth**, **analysis clarity**, and **ability to document complex technical work**.
 
-You are required to complete **five RE mini-modules** from the OST2 curriculum and then write **detailed, original write-ups** for each one.  
+You are required to complete as many modules as you can from given **five RE mini-modules** of the OST2 curriculum and then write **detailed, original write-ups** for each one.  
 Each module carries **20 points**, for a total of **100 points**.
+Donot forget to attempt **Task2** as well.
 
 Your write-ups must show **your own thought process**, not just the answer.  
 Copy-paste explanations or ChatGPT answers = _instant zero_.
