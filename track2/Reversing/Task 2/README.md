@@ -71,7 +71,7 @@ Deliverables:
 
 - Screenshots
 
-- Function by function control-flow explanation.
+- Function by function control-flow explanation
     
 - High-level function explanations
 ---
