@@ -70,6 +70,8 @@ You must analyze the binary **without running it**:
 Deliverables:
 
 - Screenshots
+
+- Function by function control-flow explanation.
     
 - High-level function explanations
 ---
